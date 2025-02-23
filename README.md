@@ -1,4 +1,4 @@
-```yaml
+
     Hi there👋
 
     I'm Puneet, An Aspiring devops engineer, passionate learner and cloud enthusiast.
@@ -27,5 +27,3 @@
 
 ⚡ Fun fact: I love solving complex problems through automation.
     I’m always up for a good hackathon.
-
-```

@@ -19,18 +19,6 @@
 👯 I’m looking to collaborate on: Open-source DevOps projects.
     Any project focusing on cloud automation or infrastructure as code (IaC).
 
-
-    # Programming Icons
-
-Check out the animated icons for AWS, Docker, Kubernetes, and more:
-
-[Visit Animated Icons Demo](https://<your-username>.github.io/<your-repo-name>/)
-
-![AWS Logo](assets/aws_logo.svg)
-![Docker Logo](assets/docker_logo.svg)
-![Kubernetes Logo](assets/kubernetes_logo.svg)
-
-
 ⚡ Fun fact: I love solving complex problems through automation.
     I’m always up for a good hackathon.
 
@@ -39,4 +27,17 @@ Check out the animated icons for AWS, Docker, Kubernetes, and more:
 
 [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/jhinganpuneet)
 [![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
+
+
+# Tools & Services Icons
+
+Here are some icons for popular tools:
+
+![Linux](assets/linux_icon.svg)
+![Docker](assets/docker_icon.svg)
+![Kubernetes](assets/kubernetes_icon.svg)
+![Jenkins](assets/jenkins_icon.svg)
+![GitLab](assets/gitlab_icon.svg)
+![Terraform](assets/terraform_icon.svg)
+
 

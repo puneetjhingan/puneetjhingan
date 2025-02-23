@@ -51,15 +51,15 @@ As I continue to enhance my skills and knowledge, I will be regularly updating t
 Connect/follow me on-  [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/jatt)
 
 
-## Connect with me on LinkedIn:
+## Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jatt">
     <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:xyzuser13@gmail.com">
+    <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail" />
+  </a>
 </p>
-
-
-Shoot me an email- [![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
-
 

@@ -1,7 +1,5 @@
+```yaml
 Hi there👋
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
 
 I'm Puneet, An Aspiring devops engineer, passionate learner and cloud enthusiast. Currently diving deep into Cloud Computing with a focus on DevOps, AWS,AZURE, DOCKER,CI/CD, and Infrastructure Automation.
 
@@ -14,3 +12,5 @@ I'm Puneet, An Aspiring devops engineer, passionate learner and cloud enthusiast
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I love solving complex problems through automation, and I’m always up for a good hackathon.
+
+```

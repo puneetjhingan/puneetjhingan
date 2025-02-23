@@ -1,8 +1,6 @@
 ```yaml
     Hi there👋
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
     I'm Puneet, An Aspiring devops engineer, passionate learner and cloud enthusiast.
     Currently diving deep into Cloud Computing with a focus on
     DevOps,AWS,AZURE, DOCKER,CI/CD and Infrastructure Automation.

@@ -1,4 +1,7 @@
 Hi there👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 I'm Puneet, An Aspiring devops engineer, passionate learner and cloud enthusiast. Currently diving deep into Cloud Computing with a focus on DevOps, AWS,AZURE, DOCKER,CI/CD, and Infrastructure Automation.
 

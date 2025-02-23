@@ -16,8 +16,11 @@
 
 📫 How to reach me: Feel free to open an issue or pull request here.
     Connect with me!
-    [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/jhinganpuneet)
-    [![Email](https://upload.wikimedia.org/wikipedia/commons/a/a8/Email_icon.svg)](mailto:puneetjhingan13@gmail.com)
+   ## Connect with me!
+
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/jhinganpuneet)
+[![Gmail](https://img.icons8.com/ios-filled/50/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
+
 
 
 😄 Pronouns: He/Him

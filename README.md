@@ -25,16 +25,6 @@ Here are some of the tools and technologies I’m working with:
 
 ---
 
-## 🛠 Databases & Monitoring Tools
-
-I'm also learning and working with databases and monitoring tools to enhance system performance:
-
-![MySQL](https://img.icons8.com/color/150/000000/mysql-logo.png)
-![MongoDB](https://img.icons8.com/color/150/000000/mongodb.png)
-![Prometheus](https://upload.wikimedia.org/wikipedia/commons/4/47/Prometheus_Logo.svg)
-
----
-
 ### ⚡ Fun Fact:
 
 I love solving complex problems, and there's nothing more rewarding than working through a challenge and solving it.  
@@ -59,6 +49,7 @@ As I continue to enhance my skills and knowledge, I will be regularly updating t
 
 📫  How to reach me!
 Connect/follow me on-  [![LinkedIn](https://img.icons8.com/color/20/000000/linkedin.png)](https://www.linkedin.com/in/jhinganpuneet)
+
 Shoot me an email- [![Gmail](https://img.icons8.com/color/20/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
 
 

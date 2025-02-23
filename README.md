@@ -19,6 +19,18 @@
 👯 I’m looking to collaborate on: Open-source DevOps projects.
     Any project focusing on cloud automation or infrastructure as code (IaC).
 
+
+    # Programming Icons
+
+Check out the animated icons for AWS, Docker, Kubernetes, and more:
+
+[Visit Animated Icons Demo](https://<your-username>.github.io/<your-repo-name>/)
+
+![AWS Logo](assets/aws_logo.svg)
+![Docker Logo](assets/docker_logo.svg)
+![Kubernetes Logo](assets/kubernetes_logo.svg)
+
+
 ⚡ Fun fact: I love solving complex problems through automation.
     I’m always up for a good hackathon.
 

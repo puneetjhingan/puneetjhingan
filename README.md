@@ -48,7 +48,17 @@ As I continue to enhance my skills and knowledge, I will be regularly updating t
 
 
 📫  How to reach me!
-Connect/follow me on-  [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/jhinganpuneet)
+Connect/follow me on-  [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/jatt)
+
+
+## Connect with me on LinkedIn:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jatt">
+    <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+</p>
+
 
 Shoot me an email- [![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
 

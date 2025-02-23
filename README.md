@@ -58,12 +58,7 @@ As I continue to enhance my skills and knowledge, I will be regularly updating t
 
 
 📫  How to reach me!
-Connect/follow me on [LinkedIn](https://www.linkedin.com/in/jhinganp) ![Person working on laptop](https://img.icons8.com/ios/50/000000/user-working-on-laptop.png) ![Person working on laptop](https://img.icons8.com/ios/100/000000/user-working-on-laptop.png)
-![Person working on laptop](https://img.icons8.com/external-flat-juicy-fish/100/000000/external-user-working-on-laptop-external-flat-flat-juicy-fish.png)
-
-
-
-[![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/jhinganpuneet)
-[![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
+Connect/follow me on-  [![LinkedIn](https://img.icons8.com/color/20/000000/linkedin.png)](https://www.linkedin.com/in/jhinganpuneet)
+Shoot me an email- [![Gmail](https://img.icons8.com/color/20/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
 
 

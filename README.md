@@ -45,12 +45,7 @@ I’m always up for a **tech talk**, learning new technologies, and engaging in 
 🔄 **Continuous Learning**  
 As I continue to enhance my skills and knowledge, I will be regularly updating this page with new technologies, tools, and projects I'm working on. Stay tuned for more!
 
-
-
-📫  How to reach me!
-Connect/follow me on-  [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/jatt)
-
-
+---
 ## Connect with me:
 
 <p align="center">

@@ -48,8 +48,8 @@ As I continue to enhance my skills and knowledge, I will be regularly updating t
 
 
 📫  How to reach me!
-Connect/follow me on-  [![LinkedIn](https://img.icons8.com/color/20/000000/linkedin.png)](https://www.linkedin.com/in/jhinganpuneet)
+Connect/follow me on-  [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/jhinganpuneet)
 
-Shoot me an email- [![Gmail](https://img.icons8.com/color/20/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
+Shoot me an email- [![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
 
 

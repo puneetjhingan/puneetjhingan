@@ -15,7 +15,10 @@
     Any project focusing on cloud automation or infrastructure as code (IaC).
 
 📫 How to reach me: Feel free to open an issue or pull request here.
-    You can reach me on LinkedIn orEMail me.
+    Connect with me!
+    [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/jhinganpuneet)
+    [![Email](https://upload.wikimedia.org/wikipedia/commons/a/a8/Email_icon.svg)](mailto:puneetjhingan13@gmail.com)
+
 
 😄 Pronouns: He/Him
 

@@ -14,12 +14,11 @@
 👯 I’m looking to collaborate on: Open-source DevOps projects.
     Any project focusing on cloud automation or infrastructure as code (IaC).
 
-📫 How to reach me: Feel free to open an issue or pull request here.
-    Connect with me!
-   ## Connect with me!
+📫  Connect with me!
 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/jhinganpuneet)
-[![Gmail](https://img.icons8.com/ios-filled/50/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/jhinganpuneet)
+[![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:puneetjhingan13@gmail.com)
+
 
 
 

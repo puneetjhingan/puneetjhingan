@@ -31,7 +31,7 @@ I'm also learning and working with databases and monitoring tools to enhance sys
 
 ![MySQL](https://img.icons8.com/color/150/000000/mysql-logo.png)
 ![MongoDB](https://img.icons8.com/color/150/000000/mongodb.png)
-![Prometheus](https://img.icons8.com/color/150/000000/prometheus.png)
+![Prometheus](https://upload.wikimedia.org/wikipedia/commons/4/47/Prometheus_Logo.svg)
 
 ---
 

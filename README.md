@@ -17,7 +17,9 @@ Here are some of the tools and technologies I’m working with:
 ![Terraform](https://img.icons8.com/color/150/000000/terraform.png)
 
 <p align="left">
-  <img src="https://img.icons8.com/color/150/000000/prometheus.png" alt="Prometheus"/>
+  <a href="https://prometheus.io/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Prometheus_software_logo.svg" alt="Prometheus"/>
+  </a>
   <img src="https://img.icons8.com/color/150/000000/grafana.png" alt="Grafana"/>
 </p>
 

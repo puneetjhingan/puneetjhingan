@@ -15,6 +15,13 @@ Here are some of the tools and technologies I’m working with:
 ![Jenkins](https://img.icons8.com/color/150/000000/jenkins.png)
 ![GitLab](https://img.icons8.com/color/150/000000/gitlab.png)
 ![Terraform](https://img.icons8.com/color/150/000000/terraform.png)
+### 📦 Tooling Stack
+
+<p align="left">
+  <img src="https://img.icons8.com/color/150/000000/prometheus.png" alt="Prometheus"/>
+  <img src="https://img.icons8.com/color/150/000000/grafana.png" alt="Grafana"/>
+</p>
+
 
 ---
 
@@ -23,15 +30,6 @@ Here are some of the tools and technologies I’m working with:
 I love solving complex problems, and there's nothing more rewarding than working through a challenge and solving it.  
 I’m always up for a **tech talk**, learning new technologies, and engaging in **hands-on experiences** like hackathons.
 
----
-
-🔧 **Technologies I've learned and worked with:**
-
-- **Cloud Platforms**: **AWS**, **Azure**
-- **DevOps Tools**: **Docker**, **Kubernetes**, **Jenkins**, **GitLab**
-- **Infrastructure as Code**: **Terraform**
-- **Databases**: **MySQL**, **MongoDB**
-- **Monitoring Tools**: **Prometheus**
 
 ---
 

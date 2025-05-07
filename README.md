@@ -15,7 +15,6 @@ Here are some of the tools and technologies I’m working with:
 ![Jenkins](https://img.icons8.com/color/150/000000/jenkins.png)
 ![GitLab](https://img.icons8.com/color/150/000000/gitlab.png)
 ![Terraform](https://img.icons8.com/color/150/000000/terraform.png)
-### 📦 Tooling Stack
 
 <p align="left">
   <img src="https://img.icons8.com/color/150/000000/prometheus.png" alt="Prometheus"/>

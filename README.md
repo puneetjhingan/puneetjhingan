@@ -1,13 +1,6 @@
 # 👋 Hi there
 
-I'm an aspiring **DevOps Engineer**, passionate learner, and **cloud enthusiast** with a focus on **Cloud Computing** and **Infrastructure Automation**. 
-I'm currently gaining hands-on experience with cutting-edge technologies to automate cloud infrastructure and deployment processes.
-
-### 🚀 I'm currently learning and gaining hands-on experience with:
-- 🌥️ **Cloud Computing** and its services like **AWS** and **Azure**, mastering **Infrastructure as Code** using **Terraform**.
-- ⚙️ **DevOps practices** and tools to improve system management efficiency, with hands-on experience in building **CI/CD Pipelines**.
-- 🐳 **Docker** for containerization and **Kubernetes** for orchestration to build and manage scalable applications.
-- 🌎 Implementing and automating **cloud infrastructure** and **deployment processes** to optimize system efficiency.
+I'm an **DevOps Engineer**, passionate learner, and **cloud enthusiast** with a focus on **Cloud Computing** and **Infrastructure Automation**. 
 
 ---
 
@@ -43,7 +36,7 @@ I’m always up for a **tech talk**, learning new technologies, and engaging in 
 ---
 
 🔄 **Continuous Learning**  
-As I continue to enhance my skills and knowledge, I will be regularly updating this page with new technologies, tools, and projects I'm working on. Stay tuned for more!
+As I continue to enhance my skills and knowledge, I will be updating this page with new projects I'm working on. Stay tuned for more!
 
 ---
 ## Connect with me:

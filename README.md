@@ -1,6 +1,18 @@
-# 👋 Hi there
+### 👋 Hi, I'm a DevOps Engineer passionate about Cloud, Automation, and Scalable Infrastructure.
 
-I'm an **DevOps Engineer**, passionate learner, and **cloud enthusiast** with a focus on **Cloud Computing** and **Infrastructure Automation**. 
+I build reliable, scalable systems using tools like **Terraform**, **Ansible**, **Kubernetes**, **AWS**, **GitHub Actions**, and **ArgoCD**. I believe in automation as a force multiplier and love turning manual processes into repeatable, testable code.
+
+🛠️ I’ve:
+- Optimized CI/CD pipelines (cut deployment time by 40%)
+- Automated AWS infrastructure with 100% environment parity
+- Built observability stacks with Prometheus, Grafana, and ELK
+- Rolled out secure, resilient Kubernetes environments with Helm
+- Embedded DevSecOps practices using Trivy & SonarQube
+
+📌 Always learning, always building — from scripts to scalable systems.
+
+🔭 Currently focusing on Infrastructure as Code, GitOps, and Cloud-native observability.
+
 
 ---
 
